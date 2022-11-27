@@ -76,7 +76,7 @@ function Store() {
     $CosmosDBEndPoint = "https://personal-projects.documents.azure.com:443/"
     $DBName = "personal-projects"
     $CollectionName = "yabla-image"
-    $MasterKey = "QA8z9C0PgsM94kE2hSwYTbqXgVZuS8vqTWFFJY5HnWNRsKpvcllPITXgRUDrvqgcNiZoKZCalsZZhmG2aV4v5w=="
+    $MasterKey = "AZURE_MASTER_KEY"
     
     # HOW DO WE UPLOAD IMAGES?
     # HOW DO WE MAKE THIS JSON OBJECT? {id, list of images}
